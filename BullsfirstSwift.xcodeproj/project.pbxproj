@@ -58,6 +58,8 @@
 		3D5AE2A72799A4E10082ADD4 /* NetWorth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetWorth.swift; sourceTree = "<group>"; };
 		3D5AE2AA2799AA740082ADD4 /* netWorthData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = netWorthData.json; sourceTree = "<group>"; };
 		3D5AE2AC2799AECE0082ADD4 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		3D5B64ED27A9EC8E0011E433 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3D5B64EF27A9EF3A0011E433 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		3DC76FDD27A1A0180017A86A /* AccountList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountList.swift; sourceTree = "<group>"; };
 		3DC76FDF27A270FD0017A86A /* AccountDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountDetail.swift; sourceTree = "<group>"; };
 		3DC76FE127A2A9080017A86A /* AccountRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountRow.swift; sourceTree = "<group>"; };
@@ -92,6 +94,8 @@
 		3D5AE26A279974230082ADD4 = {
 			isa = PBXGroup;
 			children = (
+				3D5B64ED27A9EC8E0011E433 /* README.md */,
+				3D5B64EE27A9ED790011E433 /* Assets */,
 				3D5AE275279974230082ADD4 /* BullsfirstSwift */,
 				3D5AE286279974260082ADD4 /* BullsfirstSwiftTests */,
 				3D5AE290279974260082ADD4 /* BullsfirstSwiftUITests */,
@@ -184,6 +188,14 @@
 				3D5AE2AC2799AECE0082ADD4 /* ModelData.swift */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		3D5B64EE27A9ED790011E433 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				3D5B64EF27A9EF3A0011E433 /* screenshot.png */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 		3DC76FE327A5BEE00017A86A /* Services */ = {
