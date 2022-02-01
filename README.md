@@ -4,4 +4,4 @@
 
 Bullsfirst is an application to trade securities and manage investments.
 
-![Account List](Assets/sceenshot.png)
+![Account List](Assets/screenshot.png)
