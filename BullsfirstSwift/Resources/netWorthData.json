@@ -1,0 +1,20 @@
+[
+    {
+        "id": "brokerage-account",
+        "name": "Brokerage Account",
+        "investmentTotal": 90000,
+        "cashBalance": 10000
+    },
+    {
+        "id": "retirement-account",
+        "name": "Retirement Account",
+        "investmentTotal": 217440,
+        "cashBalance": 5000
+    },
+    {
+        "id": "jennys-college-fund",
+        "name": "Jenny's College Fund",
+        "investmentTotal": 0,
+        "cashBalance": 1000
+    }
+]

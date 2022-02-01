@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct BullsfirstSwiftApp: App {
+    var accountService = AccountService()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(accountService)
         }
     }
 }
